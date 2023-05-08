@@ -1,6 +1,7 @@
 # IPL-Data-analysis-dashboard
 
-Get data from Keggel Dataset : https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020
+Dataset : https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020
+
   Power BI Functionalities: 
    - Data Modelling with four tables
    - Get data from Excel File 
@@ -17,3 +18,6 @@ Requirement:
   - Match win by Venue
   - Total wins by team in a season
   - Matches won base on the result type  
+
+![IPL -Dashboard](https://user-images.githubusercontent.com/131505771/236903937-980a1362-a0c2-4c89-91e8-878603f490b8.jpg)
+
